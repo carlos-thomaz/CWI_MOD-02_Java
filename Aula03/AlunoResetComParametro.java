@@ -1,3 +1,5 @@
+package Aula03;
+
 class AlunoResetComParametro {
 
     public static void main(String[] args) {

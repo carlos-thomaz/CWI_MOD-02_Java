@@ -1,3 +1,5 @@
+package Aula02;
+
 class AlunoReset {
 
     public static void main(String[] args) {
